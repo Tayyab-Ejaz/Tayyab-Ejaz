@@ -28,7 +28,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)&nbsp;
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
