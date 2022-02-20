@@ -28,8 +28,9 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)&nbsp;
-	
+![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby&logoColor=white)&nbsp;
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
