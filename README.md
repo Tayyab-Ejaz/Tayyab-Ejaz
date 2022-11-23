@@ -18,8 +18,8 @@
 <br/><br/>
 
 
-- 🌱 I’m currently working and learning WEB 3.0 Development
-- 🎿 One year experience of working as a **Ruby on Rails** developer
+- 🌱 I’m currently working as a React and Ruby on Rails enginer
+- 🎿 Two years experience of working as a **Ruby on Rails** developer
 - 📫 Able to work in MERN stack
 - 👨 I’m interested in adapting and working with latest technologies
 - 📫 Feel free to contact me: tayyabejaz668@gmail.com 
